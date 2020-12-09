@@ -1,4 +1,50 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "ananke"
+author = "Tanxy"
+baseurl = "/"
+canonifyurls = true
+copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
+paginate = 5
+theme = "alageek"
+title = "Tanxy's Blog"
+
+[params]
+copyright = "© 2020 by Xunyan Tan"
+copyrightUrl = "https://tanxy.club"
+description = "Hugo alaGeek Theme"
+faviconfile = "https://cdn.jsdelivr.net/gh/Tan35/ImgHosting/Tan35-PIC/about_me.png"
+latestpostcount = 5
+logofile = "https://cdn.jsdelivr.net/gh/Tan35/ImgHosting/Tan35-PIC/circle-cropped (2).png"
+highlightjs = true
+highlightjslanguages = [ "bash", "css", "diff", "django", "javascript", "python", "yaml" ]
+toc = false
+posts_navigation = true
+progressively = true
+github = "Tan35"
+telegram = "tanxy35"
+twitter = "Tjxy_"
+
+
+[[menu.primary]]
+identifier = "blog"
+name = "Blog"
+url = "/blog/"
+weight = 10
+
+[[menu.primary]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 20
+
+[[menu.secondary]]
+identifier = "Subscribe"
+name = "subscribe"
+url = "https://mailchi.mp/0360e8248b9e/db8sn08o17"
+weight = 110
+
+[[menu.secondary]]
+identifier = "bmc"
+name = "Buy me a coffee"
+url = "https://www.buymeacoffee.com/Tanxy"
+weight = 120
+
+
