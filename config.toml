@@ -47,4 +47,10 @@ name = "Buy me a coffee"
 url = "https://www.buymeacoffee.com/Tanxy"
 weight = 120
 
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 
