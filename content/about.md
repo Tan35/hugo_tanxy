@@ -16,18 +16,19 @@ menu = "main"
 
 让进度又加快了一点点
 
-这里是我记录考研的日子  
+这里将会记录我考研的事情
 
-有学习可能还有生活  
+除了学习还有生活
 
-不管了向前冲了
+冲 
 
 ...
 
-[
-    ![](https://img.shields.io/badge/Weibo-Tjxy_-red?logo=SinaWeibo&amp;style=for-the-badge)
-](https://weibo.com/u/2788194970)
-
-[
-    ![](https://img.shields.io/badge/Telegram-Tanxy_-1da1f2?logo=Telegram&amp;style=for-the-badge)
-](https://t.me/tanxy35)
+<div style="padding-left:10%">
+<a href="https://weibo.com/u/2788194970">
+    <img src="https://img.shields.io/badge/Weibo-Tjxy_-red?logo=Sina Weibo&amp;style=for-the-badge" />
+</a>
+<br>
+<a href="https://t.me/tanxy35">
+    <img src="https://img.shields.io/badge/Telegram-Tanxy_-1da1f2?logo=Telegram&amp;style=for-the-badge" />
+</a>
