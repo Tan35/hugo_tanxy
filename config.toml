@@ -36,9 +36,9 @@ url = "/about/"
 weight = 20
 
 [[menu.secondary]]
-identifier = "Subscribe"
-name = "subscribe"
-url = "https://mailchi.mp/0360e8248b9e/db8sn08o17"
+identifier = "song"
+name = "SONG"
+url = "/song/"
 weight = 110
 
 [[menu.secondary]]
