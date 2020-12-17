@@ -65,6 +65,7 @@ weight: 10
 <strong>所以 A-3E 可逆，且 (A-3E)<sup>-1</sup> = -(A+8E)/21 </strong>
 </code>
 </pre>
+
 ---
 
 ### 例题3
@@ -107,6 +108,7 @@ B为3阶矩阵，且满足 2B<sup>-1</sup>A + 4E = A, 证明： B - 2E 可逆，
 B为3阶矩阵，且满足 2B<sup>-1</sup>A + 4E = A, 证明： B - 2E 可逆，并求 (B-2E)<sup>-1</sup> 。
 
 <pre><code>
+
 解题思路：
 	不妨设 B<sup>-1</sup> = 1/b , A = a , E = 1。 
 	那么原等式可写成
