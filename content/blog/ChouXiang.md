@@ -183,7 +183,7 @@ B为3阶矩阵，且满足 2B<sup>-1</sup>A + 4E = A, 证明： B - 2E 可逆，
 	即  (A+E)<sup>-1</sup> = 1/4 * (A+2E)
 	这道题是填空题，所以到这里就结束了
 	如果是大题，按照上面的思路逆推即可
-</pre></code>
+</code></pre>
 
 
 <div style="position:relative; padding-bottom:75%; width:100%; height:0">
