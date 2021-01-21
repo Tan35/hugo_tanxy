@@ -1,7 +1,7 @@
 ---
 author: "Tanxy"
 date: 2021-01-20
-linktitle: Kaoyan
+linktitle: Kaoyan1
 menu:
   main:
     parent: tutorials
