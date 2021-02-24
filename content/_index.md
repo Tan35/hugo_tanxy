@@ -5,6 +5,13 @@ menu = "main"
 +++
 
 
+这个博客暂时不会更新啦  
+最近一年都会忙着考研  
+有个考研专属博客 --> [秘密通道](https://tanxy.typlog.io/)  
+谢谢你们的支持  
+
+---
+
 I would like to borrow a little of your patience to step into my world!  
 
 An average university student  
