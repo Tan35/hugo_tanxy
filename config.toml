@@ -1,56 +1,30 @@
-author = "Tanxy"
-baseurl = "/"
-canonifyurls = true
-copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
-paginate = 5
-theme = "alageek"
-title = "Tanxy's Blog"
+baseURL = "/"
+languageCode = "en-us"
+title = "TANXY'S CLUB"
+theme = "hugo-paper"
+pygmentsCodefences = true
 
 [params]
-copyright = "© 2020 by Xunyan Tan"
-copyrightUrl = "https://tanxy.club"
-description = "Hugo alaGeek Theme"
-faviconfile = "https://cdn.jsdelivr.net/gh/Tan35/ImgHosting/Tan35-PIC/simpson_favicon_final.png"
-latestpostcount = 8
-logofile = "https://cdn.jsdelivr.net/gh/Tan35/ImgHosting/Tan35-PIC/avatar.png"
-highlightjs = true
-highlightjslanguages = [ "bash", "css", "diff", "django", "javascript", "python", "yaml" ]
-toc = false
-posts_navigation = true
-progressively = true
-github = "Tan35"
-telegram = "tanxy35"
-twitter = "Tjxy_"
+    githubProfile = "https://github.com/tan35"
+    sources = "https://tanxy.tplog.io"
+    dateForm = "2006-01-02"
+    author = "Tan35"
+    homeTypes = "posts, tutorials"
 
-
-[[menu.primary]]
-identifier = "blog"
-name = "Blog"
-url = "/blog/"
-weight = 10
-
-[[menu.primary]]
-identifier = "about"
-name = "About"
-url = "/about/"
-weight = 20
-
-[[menu.secondary]]
-identifier = "song"
-name = "SONG"
-url = "/song/"
-weight = 110
-
-[[menu.secondary]]
-identifier = "bmc"
-name = "Buy me a coffee"
-url = "https://www.buymeacoffee.com/Tanxy"
-weight = 120
-
-[markup]
-  defaultMarkdownHandler = "goldmark"
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-
-
+[menu]
+    [[menu.main]]
+        name = "Home"
+        url = "/"
+        weight = -100
+    [[menu.main]]
+        name = "Tutorials"
+        url = "/tutorials/"
+        weight = -90
+    [[menu.main]]
+        name = "Reported bugs"
+        url = "/bugs/"
+        weight = -80
+    [[menu.main]]
+        name = "Reviews"
+        url = "/reviews/"
+        weight = -70
